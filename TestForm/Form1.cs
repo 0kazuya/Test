@@ -19,7 +19,7 @@ namespace TestForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("aaaaaaaa");
+            Console.WriteLine("");
         }
     }
 }
